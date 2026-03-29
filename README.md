@@ -1,3 +1,4 @@
  # first_demo
 this is my first repo (Demo) 
-Author-Pari Gupt
+<br>
+Author-Pari Gupta
